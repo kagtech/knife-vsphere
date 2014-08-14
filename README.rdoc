@@ -2,7 +2,7 @@
 
 = DESCRIPTION:
 
-This is an Opscode Knife plugin to interact with VMware's vSphere. This plugin currently supports the following:
+This is a Chef Knife plugin to interact with VMware's vSphere. This plugin currently supports the following:
 
 Listings:
 
